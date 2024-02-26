@@ -10,10 +10,8 @@ public class Cliente {
     public List<Vehiculo> misVehiculos = 
               new ArrayList<Vehiculo>();
 
-    
     public Cliente() {
     }
-
     
     public Cliente(String nombres, 
                    String apellidos, 
